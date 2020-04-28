@@ -4,6 +4,7 @@ module.exports = {
   head: [
     ['link', {rel: 'icon', href: '/logo.png'}]
   ],
+  base: '/VuePress-Demo/',
   locales: {
     '/': {
       lang: 'English',
